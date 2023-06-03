@@ -1,4 +1,4 @@
 # modulo do kernel 
-## Aluno: 👨‍💻 Matheus Alexande
+## Aluno: 👨‍💻 Matheus Alexandre
 ### Projeto: 🛠️ em andamento 🛠️
 -Trabalho acadêmico para conclusão da disciplina de Sistemas Operacionais
